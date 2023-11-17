@@ -47,6 +47,5 @@ locals {
       topics             = ["frontend-masters", "terraform"]
       visibility         = "public"
     }
-
   }
 }
